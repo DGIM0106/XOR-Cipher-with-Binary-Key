@@ -37,7 +37,7 @@ python xor_cipher.py
 ```
 Enter text to encrypt: Hello World
 Generated key:  101010110110
-Encrypted text: �↨��↨�▲�▼↨�
+Encrypted text: Iemln Vnrme
 Original text: Hello World
 ```
 
